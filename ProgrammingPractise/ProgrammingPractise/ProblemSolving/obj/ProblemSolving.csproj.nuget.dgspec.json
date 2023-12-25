@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Himanshu Verma\\Studies\\Projects\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj": {}
+    "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj": {}
   },
   "projects": {
-    "F:\\Himanshu Verma\\Studies\\Projects\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj": {
+    "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Himanshu Verma\\Studies\\Projects\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj",
+        "projectUniqueName": "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj",
         "projectName": "ProblemSolving",
-        "projectPath": "F:\\Himanshu Verma\\Studies\\Projects\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj",
+        "projectPath": "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj",
         "packagesPath": "C:\\Users\\monu\\.nuget\\packages\\",
-        "outputPath": "F:\\Himanshu Verma\\Studies\\Projects\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\obj\\",
+        "outputPath": "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\monu\\AppData\\Roaming\\NuGet\\NuGet.Config",

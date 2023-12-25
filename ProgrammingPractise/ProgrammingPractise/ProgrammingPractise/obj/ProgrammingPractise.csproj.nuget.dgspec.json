@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Himanshu Verma\\Studies\\Projects\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise.csproj": {}
+    "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise.csproj": {}
   },
   "projects": {
-    "F:\\Himanshu Verma\\Studies\\Projects\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise.csproj": {
+    "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Himanshu Verma\\Studies\\Projects\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise.csproj",
+        "projectUniqueName": "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise.csproj",
         "projectName": "ProgrammingPractise",
-        "projectPath": "F:\\Himanshu Verma\\Studies\\Projects\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise.csproj",
+        "projectPath": "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise.csproj",
         "packagesPath": "C:\\Users\\monu\\.nuget\\packages\\",
-        "outputPath": "F:\\Himanshu Verma\\Studies\\Projects\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise\\obj\\",
+        "outputPath": "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProgrammingPractise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\monu\\AppData\\Roaming\\NuGet\\NuGet.Config",
