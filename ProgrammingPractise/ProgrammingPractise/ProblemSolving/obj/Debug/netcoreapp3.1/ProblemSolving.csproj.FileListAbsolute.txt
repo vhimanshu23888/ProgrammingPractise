@@ -1,0 +1,14 @@
+F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.AssemblyInfoInputs.cache
+F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.AssemblyInfo.cs
+F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.csproj.CoreCompileInputs.cache
+F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.exe
+F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.deps.json
+F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.runtimeconfig.json
+F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.runtimeconfig.dev.json
+F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.dll
+F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.pdb
+F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.dll
+F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.pdb
+F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.genruntimeconfig.cache
+F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.csproj.AssemblyReference.cache
+F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig

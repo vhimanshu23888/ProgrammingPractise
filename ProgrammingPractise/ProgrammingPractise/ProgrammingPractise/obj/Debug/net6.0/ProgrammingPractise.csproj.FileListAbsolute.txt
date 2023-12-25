@@ -1,0 +1,15 @@
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\bin\Debug\net6.0\ProgrammingPractise.exe
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\bin\Debug\net6.0\ProgrammingPractise.deps.json
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\bin\Debug\net6.0\ProgrammingPractise.runtimeconfig.json
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\bin\Debug\net6.0\ProgrammingPractise.dll
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\bin\Debug\net6.0\ProgrammingPractise.pdb
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\obj\Debug\net6.0\ProgrammingPractise.csproj.AssemblyReference.cache
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\obj\Debug\net6.0\ProgrammingPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\obj\Debug\net6.0\ProgrammingPractise.AssemblyInfoInputs.cache
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\obj\Debug\net6.0\ProgrammingPractise.AssemblyInfo.cs
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\obj\Debug\net6.0\ProgrammingPractise.csproj.CoreCompileInputs.cache
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\obj\Debug\net6.0\ProgrammingPractise.dll
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\obj\Debug\net6.0\refint\ProgrammingPractise.dll
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\obj\Debug\net6.0\ProgrammingPractise.pdb
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\obj\Debug\net6.0\ProgrammingPractise.genruntimeconfig.cache
+C:\Users\vermahi\OneDrive - Aristocrat Gaming\Learning\Programming Practise\ProgrammingPractise\ProgrammingPractise\obj\Debug\net6.0\ref\ProgrammingPractise.dll
