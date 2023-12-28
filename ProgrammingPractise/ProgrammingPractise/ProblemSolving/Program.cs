@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using ProblemSolving.common;
 using ProgrammingPractise;
+using ProblemSolving.LeetCode_Top150;
 namespace ProblemSolving
 {
     class Program
@@ -132,26 +133,69 @@ namespace ProblemSolving
 
             #region MED_AddTwoNumbersFromLinkedLists
 
-            MED_AddTwoNumbersFromLinkedLists mED_AddTwoNumbersFromLinkedLists = new MED_AddTwoNumbersFromLinkedLists();
-            ListNode node = mED_AddTwoNumbersFromLinkedLists.AddTwoNumbers(
-                new common.ListNode { val = 2, next = new common.ListNode { val = 4, next = new common.ListNode { val = 3 } } },
-                new common.ListNode { val = 5, next = new common.ListNode { val = 6, next = new common.ListNode { val = 4 } } });
+            //MED_AddTwoNumbersFromLinkedLists mED_AddTwoNumbersFromLinkedLists = new MED_AddTwoNumbersFromLinkedLists();
+            //ListNode node = mED_AddTwoNumbersFromLinkedLists.AddTwoNumbers(
+            //    new common.ListNode { val = 2, next = new common.ListNode { val = 4, next = new common.ListNode { val = 3 } } },
+            //    new common.ListNode { val = 5, next = new common.ListNode { val = 6, next = new common.ListNode { val = 4 } } });
 
-            //node.next = mED_AddTwoNumbersFromLinkedLists.AddTwoNumbers(
-                //new common.ListNode { val = 0},
-                //new common.ListNode { val = 1});
+            ////node.next = mED_AddTwoNumbersFromLinkedLists.AddTwoNumbers(
+            //    //new common.ListNode { val = 0},
+            //    //new common.ListNode { val = 1});
 
-            while (true)
-            {
-                if (node != null)
-                {
-                    Console.WriteLine(node.val);
-                    node = node.next;
-                }
-                else
-                    break;
-            }
+            //while (true)
+            //{
+            //    if (node != null)
+            //    {
+            //        Console.WriteLine(node.val);
+            //        node = node.next;
+            //    }
+            //    else
+            //        break;
+            //}
 
+            #endregion
+
+            #region Easy_MergeSortedArray
+            Easy_MergeSortedArray mergeSortedArray = new Easy_MergeSortedArray();
+            //int[] num1 = new int[] { 1, 2, 3, 0, 0, 0 };
+            //mergeSortedArray.Merge(ref num1, 3, new int[] { 2, 5, 6 }, 3);
+            //foreach (int i in num1)
+            //    Console.WriteLine(i);
+            //int[] num2 = new int[] { 0 };
+            //mergeSortedArray.Merge(ref num2, 0, new int[] { 1 }, 1);
+            //foreach (int i in num2)
+            //    Console.WriteLine(i);
+
+            //int[] num3 = new int[] { 1 };
+            //mergeSortedArray.Merge(ref num3, 1, new int[] {  }, 0);
+            //foreach (int i in num3)
+            //    Console.WriteLine(i);
+
+            //Easy_MergeSortedArray3PointersApproach mergeSortedArray3PointersApproach = new Easy_MergeSortedArray3PointersApproach();
+            //int[] num1 = new int[] { 1, 2, 3, 0, 0, 0 };
+            //mergeSortedArray3PointersApproach.Merge(num1, 3, new int[] { 2, 5, 6 }, 3);
+
+            //Console.WriteLine();
+            //int[] num2 = new int[] { 0 };
+            //mergeSortedArray3PointersApproach.Merge(num2, 0, new int[] { 1 }, 1);
+
+            //Console.WriteLine();
+
+            //int[] num3 = new int[] { 1 };
+            //mergeSortedArray3PointersApproach.Merge(num3, 1, new int[] { }, 0);
+            #endregion
+
+            #region Easy_RemoveElementArray
+            Easy_RemoveElementArray removeElementArray = new Easy_RemoveElementArray();
+            Console.WriteLine("K: " + removeElementArray.RemoveElement(new int[] { 3, 2, 2, 3 }, 3));
+            Console.WriteLine();
+            Console.WriteLine("K: " + removeElementArray.RemoveElement(new int[] { 0, 1, 2, 2, 3, 0, 4, 2 }, 2));
+            Console.WriteLine();
+            Console.WriteLine("K: " + removeElementArray.RemoveElement(new int[] { 2 }, 3));
+            Console.WriteLine();
+            Console.WriteLine("K: " + removeElementArray.RemoveElement(new int[] { 3, 3 }, 3));
+            Console.WriteLine();
+            Console.WriteLine("K: " + removeElementArray.RemoveElement(new int[] { 4, 5 }, 5));
             #endregion
             Console.ReadKey();
 
