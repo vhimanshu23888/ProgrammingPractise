@@ -72,7 +72,9 @@
 
 #region Plus Minus
 
-PlusMinus objPlusMinus = new PlusMinus();
+//PlusMinus objPlusMinus = new PlusMinus();
+ProductPrice pp = new ProductPrice();
+Console.WriteLine(pp.calculatedPrice(new List<List<string>>{new List<string>{"10","sale","january-sale"}, new List<string>{"200","sale","EMPTY"}}),new List<List<string>>{new List<string>{"sale","0","10"},new List<string>{"january-sale","1","10"}});
 
 
 #endregion
