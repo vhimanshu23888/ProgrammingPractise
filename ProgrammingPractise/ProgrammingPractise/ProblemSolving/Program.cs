@@ -347,17 +347,35 @@ namespace ProblemSolving
             //Easy_AddBinaryNumbers addBinaryNumbers = new Easy_AddBinaryNumbers();
             //Console.WriteLine(addBinaryNumbers.AddBinary("1010","1011"));
             #endregion
-            #region
+            #region SameTree
             //Input: p = [1, 2, 1], q = [1, 1, 2]
-            TreeNode treeNode = new TreeNode { val = 1, left = new TreeNode { left = null, val = 2, right = null }, right = new TreeNode { left = null, val = 1, right = null } };
-            TreeNode treeNode2 = new TreeNode { val = 1, left = new TreeNode { left = null, val = 1, right = null }, right = new TreeNode { left = null, val = 2, right = null } };
+            //TreeNode treeNode = new TreeNode { val = 1, left = new TreeNode { left = null, val = 2, right = null }, right = new TreeNode { left = null, val = 1, right = null } };
+            //TreeNode treeNode2 = new TreeNode { val = 1, left = new TreeNode { left = null, val = 1, right = null }, right = new TreeNode { left = null, val = 2, right = null } };
 
-            TreeNode treeNode3 = new TreeNode { val = 1};
-            TreeNode treeNode4 = new TreeNode { val = 1, left = null, right = new TreeNode { left = null, val = 2, right = null } };
-            Easy_SameTrees easy_SameTrees = new Easy_SameTrees();
-            Console.WriteLine(easy_SameTrees.IsSameTree(treeNode3, treeNode4));
+            //TreeNode treeNode3 = new TreeNode { val = 1};
+            //TreeNode treeNode4 = new TreeNode { val = 1, left = null, right = new TreeNode { left = null, val = 2, right = null } };
+            //Easy_SameTrees easy_SameTrees = new Easy_SameTrees();
+            //Console.WriteLine(easy_SameTrees.IsSameTree(treeNode3, treeNode4));
             #endregion
+            #region Cyclic LinkedList
+            //int[] input = { 3, 2, 0, -4 };
+            //Easy_CyclicLinkedList list = new Easy_CyclicLinkedList();
+            //LinkedListHelper linkedListHelper = new LinkedListHelper();
+            //Console.WriteLine(list.HasCycle(linkedListHelper.ArraytoCyclicLinkedList(input,1)));
+            #endregion
+            #region Find 2 Linked Lists Intersection
+            //int[] inuptA = { 4, 1, 8, 4, 5 };
+            //int[] inuptB = { 5, 6, 1, 8, 4, 5 };
 
+            #endregion
+            #region Summary Ranges
+            //Easy_SummaryRanges easy_SummaryRanges = new Easy_SummaryRanges();
+            //Console.WriteLine(string.Join(',', easy_SummaryRanges.SummaryRanges(new int[] { -2147483648, 0, 2, 3, 4, 6, 8, 9 })));
+            #endregion
+            #region String Anagram
+            Easy_StringAnagram easy_StringAnagram = new Easy_StringAnagram();
+            Console.WriteLine(easy_StringAnagram.IsAnagram("ggii","eekk"));
+            #endregion
             Console.ReadKey();
 
         }
