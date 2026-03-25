@@ -12,3 +12,18 @@ F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\Probl
 F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.genruntimeconfig.cache
 F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.csproj.AssemblyReference.cache
 F:\Himanshu Verma\Studies\Projects\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.exe
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.deps.json
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.runtimeconfig.json
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.runtimeconfig.dev.json
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.dll
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\bin\Debug\netcoreapp3.1\ProblemSolving.pdb
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.csproj.AssemblyReference.cache
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.AssemblyInfoInputs.cache
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.AssemblyInfo.cs
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.csproj.CoreCompileInputs.cache
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.sourcelink.json
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.dll
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.pdb
+E:\Himanshu Verma\Studies\Projects\Programming Practise GIT\ProgrammingPractise\ProgrammingPractise\ProblemSolving\obj\Debug\netcoreapp3.1\ProblemSolving.genruntimeconfig.cache

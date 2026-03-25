@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj": {}
+    "E:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj": {}
   },
   "projects": {
-    "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj": {
+    "E:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj",
+        "projectUniqueName": "E:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj",
         "projectName": "ProblemSolving",
-        "projectPath": "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj",
-        "packagesPath": "C:\\Users\\monu\\.nuget\\packages\\",
-        "outputPath": "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\obj\\",
+        "projectPath": "E:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\monu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,7 +34,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -45,16 +51,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -373,9 +373,14 @@ namespace ProblemSolving
             //Console.WriteLine(string.Join(',', easy_SummaryRanges.SummaryRanges(new int[] { -2147483648, 0, 2, 3, 4, 6, 8, 9 })));
             #endregion
             #region String Anagram
-            Easy_StringAnagram easy_StringAnagram = new Easy_StringAnagram();
-            Console.WriteLine(easy_StringAnagram.IsAnagram("ggii","eekk"));
+            //Easy_StringAnagram easy_StringAnagram = new Easy_StringAnagram();
+            //Console.WriteLine(easy_StringAnagram.IsAnagram_SortAndCompare("ggii","eekk"));
             #endregion
+            int[] input = { 1, 2,5,5,4,2,1};
+            //Easy_LinkedList_IsPalindrome easy_LinkedList_IsPalindrome = new Easy_LinkedList_IsPalindrome();
+            //Console.WriteLine(easy_LinkedList_IsPalindrome.IsPalindrome(LinkedListHelper.ArraytoLinkedList(input)).ToString());
+            Easy_LinkedList_RemoveNthFromEnd list_RemoveNthFromEnd = new Easy_LinkedList_RemoveNthFromEnd();
+            LinkedListHelper.printList(list_RemoveNthFromEnd.RemoveNthFromEnd(LinkedListHelper.ArraytoLinkedList(input), 6));
             Console.ReadKey();
 
         }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "e9Vtp1GD06CgfLhC7S5FyX4ztueq//1OajITkOAXn+tAG4F5Tb/niUHLCiIALw6KMWLAIc6XHQq37avaxbYxwQ==",
+  "dgSpecHash": "WeriO3AJiuw=",
   "success": true,
-  "projectFilePath": "F:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Himanshu Verma\\Studies\\Projects\\Programming Practise GIT\\ProgrammingPractise\\ProgrammingPractise\\ProblemSolving\\ProblemSolving.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
